@@ -1,0 +1,5 @@
+venv/
+*.xlsx
+*.csv
+*.json__pycache__/
+.idea/
